@@ -1,0 +1,484 @@
+{
+  "brand": {
+    "name": "Mauri Mouhassib",
+    "tag": "Certified Accountant & Financial Advisor"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "pricing": "Pricing",
+    "faq": "FAQ"
+  },
+  "header": {
+    "available": "Available",
+    "bookConsultation": "Book a consultation",
+    "bookFreeConsultation": "Book a free consultation",
+    "otherLanguageShort": "EN",
+    "otherLanguageFull": "English",
+    "switchToArabic": "Switch to Arabic",
+    "switchToEnglish": "Switch to English",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "watermark": "MAURI MOUHASSIB",
+    "title1": "Precise numbers build",
+    "title2": "confident decisions",
+    "subtitle": "A certified accountant and financial advisor from Riyadh. I walk you through your financials step by step: organized books, zakat and taxes filed on time, and decisions you understand before you approve them … no surprises at month-end.",
+    "ctaPrimary": "Book a free consultation",
+    "ctaSecondary": "Explore services",
+    "auth1": "Accredited with Zakat, Tax & Customs Authority",
+    "auth2": "Fellow of Certified Accounting",
+    "floating": "Net profit $42,380",
+    "panelTitle": "Financial performance overview",
+    "panelSub": "Monthly supervision of a client's books and financial statements",
+    "upToDate": "Up to date",
+    "netProfit": "Net profit … Q3",
+    "scrollLabel": "Go to services",
+    "metrics": [
+      {
+        "label": "Free cash flow",
+        "value": "$38,200",
+        "note": "This month"
+      },
+      {
+        "label": "Annual revenue growth",
+        "value": "+20%",
+        "note": "Year over year"
+      },
+      {
+        "label": "Tax report readiness",
+        "value": "Fully compliant",
+        "note": "No remarks"
+      }
+    ]
+  },
+  "marquee": {
+    "values": [
+      "Honest numbers",
+      "No late penalties",
+      "Organized books",
+      "Clarity",
+      "Decisions that help you sleep well",
+      "Diligent compliance",
+      "Reports you understand",
+      "Measurable growth"
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Where can I actually help you?",
+    "description": "From the day-to-day document cycle to getting your business investor-ready … I cover the full financial workload so you don't juggle multiple offices.",
+    "detailLink": "Full service",
+    "list": [
+      {
+        "title": "Financial advisory & analysis",
+        "description": "I read your numbers with a critical eye and hand you reports your board understands without help … so you decide on facts, not gut feeling.",
+        "features": [
+          "Performance variance analysis",
+          "Feasibility studies",
+          "Executive reports"
+        ],
+        "tone": "dark"
+      },
+      {
+        "title": "Zakat, tax & compliance",
+        "description": "I prepare and file your returns before their deadlines and manage any inspection or correspondence with the authority … so a late-penalty notice never lands in your inbox.",
+        "features": [
+          "Periodic returns",
+          "Tax planning",
+          "Audit responses"
+        ],
+        "tone": "gold"
+      },
+      {
+        "title": "Financial & management accounting",
+        "description": "I run the full document cycle through to the balance sheet per approved accounting standards, fixing errors before they grow and cost you.",
+        "features": [
+          "Document cycle",
+          "Financial statements",
+          "Cost accounting"
+        ],
+        "tone": "light"
+      },
+      {
+        "title": "Internal audit & review",
+        "description": "I enter your company with fresh eyes: a review of operations and internal control to uncover gaps and leaks before they turn into real losses.",
+        "features": [
+          "Internal control review",
+          "Compliance check",
+          "Remedial recommendations"
+        ],
+        "tone": "light"
+      },
+      {
+        "title": "Financial planning & budgeting",
+        "description": "Realistic budgets and cash plans, not numbers in thin air … strategic goals you can measure and review every month.",
+        "features": [
+          "Operating budgets",
+          "Cash forecasting",
+          "KPIs"
+        ],
+        "tone": "light"
+      },
+      {
+        "title": "Investment readiness & valuation",
+        "description": "I've prepared many businesses to meet investors: audited statements, a sound financial model, and a memo that explains your numbers before anyone asks.",
+        "features": [
+          "Financial model",
+          "Pre-investment report",
+          "Business valuation"
+        ],
+        "tone": "light"
+      }
+    ]
+  },
+  "stats": {
+    "labels": [
+      "Years of experience in accounting & planning",
+      "Businesses and founders I've worked with",
+      "Late penalties my clients have paid",
+      "managed under my supervision yearly"
+    ]
+  },
+  "about": {
+    "eyebrow": "About me",
+    "title": "Experience that turns into lasting trust",
+    "imgAlt": "An accountant's office working on financial statements",
+    "badgeTitle": "Certified Accountant",
+    "badgeSub": "Licensed since 2015",
+    "cardValue": "$135M+",
+    "cardNote": "managed under my supervision yearly",
+    "p1": "I'm Mohammed Al-Hashemi, a certified accountant from Riyadh serving companies and founders since 2014. To me, numbers aren't cold tables; they're the language that lets a business owner rest easy about the future.",
+    "p2": "I work with startups and family companies to build a solid financial base: clean bookkeeping, regular books, tax compliance without accruals, and reports you actually read and understand. Many clients came to me with a single problem and stayed for the life of the business.",
+    "credentials": [
+      "Licensed certified accountant",
+      "Accredited advisor with Zakat, Tax & Customs Authority",
+      "Over a decade in accounting & financial planning",
+      "Financial partner to 170+ businesses and founders"
+    ],
+    "ctaContact": "Contact me"
+  },
+  "process": {
+    "eyebrow": "Working method",
+    "title": "How do we move forward from the first call?",
+    "description": "I use the same sequence with most clients, then tailor your financial house accordingly … no rigid routine, no complexity.",
+    "steps": [
+      {
+        "title": "Consultation & initial review",
+        "description": "A free half-hour session where we understand your current financial position, your goals, and what's blocking your numbers from growing."
+      },
+      {
+        "title": "Planning & designing the solution",
+        "description": "I draft a clear, practical plan: accounting systems, tax scheduling, and a financial structure that fits the size and cost of your operation."
+      },
+      {
+        "title": "Execution & implementation",
+        "description": "I prepare the books, returns, and reports precisely, coordinating with your team down to day-to-day tasks when needed."
+      },
+      {
+        "title": "Ongoing monitoring & reports",
+        "description": "Steady monthly follow-up and reports you understand before I hand them over — adjusting course early, before the cost grows."
+      }
+    ]
+  },
+  "ledger": {
+    "entries": [
+      {
+        "side": "Debit",
+        "type": "debit",
+        "amount": "$12,480",
+        "label": "Operating receipts"
+      },
+      {
+        "side": "Credit",
+        "type": "credit",
+        "amount": "$9,215",
+        "label": "Raw materials supplier"
+      },
+      {
+        "side": "Debit",
+        "type": "debit",
+        "amount": "$4,590",
+        "label": "Customer receivables collected"
+      },
+      {
+        "side": "Credit",
+        "type": "credit",
+        "amount": "$2,140",
+        "label": "VAT collected and remitted"
+      },
+      {
+        "side": "Debit",
+        "type": "debit",
+        "amount": "$7,805",
+        "label": "Bank deposit"
+      },
+      {
+        "side": "Credit",
+        "type": "credit",
+        "amount": "$1,045",
+        "label": "Operating expenses"
+      },
+      {
+        "side": "Debit",
+        "type": "debit",
+        "amount": "$18,360",
+        "label": "Customer invoice"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Client testimonials",
+    "title": "What people say after working with me",
+    "description": "I'd rather not describe myself — better to let those who've worked with me do it. These are samples of messages I receive, shared with their permission.",
+    "footerNote": "Some of these are warm thanks more than reviews … which is natural. The key is that most of them came back with a second request.",
+    "ratingAria": "Rated {rating} out of 5",
+    "list": [
+      {
+        "rating": 5,
+        "gender": "man",
+        "quote": "During my first founding season I stopped fearing tax reports entirely. Everything is delivered on time, and I understand my numbers for the first time in my career.",
+        "name": "Ahmed Ali",
+        "role": "Founder, fashion brand"
+      },
+      {
+        "rating": 5,
+        "gender": "man",
+        "quote": "He reorganized our books and exposed leaks we had no idea about, saving us more than 8% of operating costs within a single year.",
+        "name": "Khaled Mohammed",
+        "role": "Director, contracting company"
+      },
+      {
+        "rating": 4,
+        "gender": "woman",
+        "quote": "I was hesitant about investing in a new store, but the feasibility study he prepared gave me complete clarity. The project hit its targets in the first two years.",
+        "name": "Amina Hashem",
+        "role": "Founder, e-commerce"
+      },
+      {
+        "rating": 5,
+        "gender": "man",
+        "quote": "His approach to tax planning changed how we manage cash flow. Our cleanest-ever dealings with the authority were our biggest win.",
+        "name": "Mahmoud Abdel-Hay",
+        "role": "Co-founder, healthcare"
+      },
+      {
+        "rating": 5,
+        "gender": "woman",
+        "quote": "Compared to our previous firms, the difference is stark: the board now understands and debates performance with confidence, and monthly reports are clear even to non-specialists.",
+        "name": "Siham Mohammed",
+        "role": "CFO, family group"
+      },
+      {
+        "rating": 4,
+        "gender": "woman",
+        "quote": "The accounts of my first business were a real battlefield. Within two months everything was sorted, and today I present my numbers to anyone with confidence.",
+        "name": "Maryam Ahmed",
+        "role": "Investor & small-business founder"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "A clear subscription model",
+    "description": "I prefer honest pricing over hidden surprises. Every plan starts with a free consultation, and figures are discussed transparently before any commitment.",
+    "note": "The figures above are a starting point, not a final contract … the precise price comes after the initial review, based on the size and intensity of your operations.",
+    "featuredBadge": "Most popular",
+    "plans": [
+      {
+        "name": "Essential",
+        "price": "$1,250",
+        "period": "per month",
+        "description": "For individuals and small businesses just getting started: tidy books and periodic statements, with no inflated fees.",
+        "features": [
+          "Monthly journal entry recording",
+          "Basic financial statements",
+          "First zakat & tax filing",
+          "Monthly phone consultation"
+        ],
+        "cta": "Get started",
+        "featured": false
+      },
+      {
+        "name": "Professional",
+        "price": "$3,250",
+        "period": "per month",
+        "description": "The most requested … for businesses past the startup stage that need full day-to-day financial management.",
+        "features": [
+          "Everything in Essential",
+          "Full zakat, tax & scheduling management",
+          "Monthly performance & profitability analysis",
+          "Unlimited consultation line",
+          "Annual budget & cash planning"
+        ],
+        "cta": "Book your consultation",
+        "featured": true
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "period": "tailored quote",
+        "description": "For companies and groups with multi-unit operations that deserve dedicated financial oversight and a specialist office.",
+        "features": [
+          "Integrated financial management & control",
+          "Internal audit & institutional compliance",
+          "Growth, financing & M&A advisory",
+          "Dedicated team & aligned offices"
+        ],
+        "cta": "Request a quote",
+        "featured": false
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "What's on your mind before we begin?",
+    "description": "These are the points clients raise most at first contact. If your question isn't here, the free session is the perfect place to ask it directly.",
+    "moreLink": "Have another question? Message me now",
+    "list": [
+      {
+        "question": "Do your services include preparing and filing zakat and tax returns?",
+        "answer": "Yes — it's one of our most requested services. I handle all periodic returns (VAT, withholding, and others), zakat filings, and submit them on time through the Zakat, Tax & Customs Authority portal, with a schedule that prevents any late penalties."
+      },
+      {
+        "question": "How do you handle the confidentiality of my financial data?",
+        "answer": "Confidentiality is a red line. I follow professional ethics standards and sign a non-disclosure agreement (NDA) with every client covering all financial and commercial data — never shared with any third party without your written consent."
+      },
+      {
+        "question": "Do you accept businesses with no accounting system yet?",
+        "answer": "Absolutely — those are among my favorite cases. I start with a full review, then build the accounting system from scratch in the way that best fits your activity and team size, giving you and your managers a clear picture before anything is implemented."
+      },
+      {
+        "question": "What's the difference between a monthly retainer and project-based services?",
+        "answer": "A monthly retainer suits anyone wanting continuous financial management: books, filings, monthly analysis. Project-based services fit specific tasks like a feasibility study, internal audit, or preparing a funding file. I'll recommend what's best for your situation during the first session."
+      },
+      {
+        "question": "Do you provide remote services for businesses outside Riyadh?",
+        "answer": "Yes — digital engagement is standard with many of my clients in Jeddah, Dammam, and across the Kingdom. The document cycle runs entirely online, with regular video meetings, plus minimal travel for any field visit when needed."
+      },
+      {
+        "question": "How does the first consultation work — is it really free?",
+        "answer": "It's completely free (30–45 minutes), where we understand your current position and goals. You leave with your most important financial priorities ranked — even if we don't continue together, because decisions should be built on clarity, not pressure."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact me",
+    "title": "Let's start with a free consultation",
+    "description": "Fill in the form and I'll reply within one working day to schedule your first session … half an hour to understand your financial position and your first priorities.",
+    "phoneLabel": "Phone / WhatsApp",
+    "emailLabel": "Email",
+    "officeLabel": "Office",
+    "officeValue": "City - District",
+    "hoursLabel": "Working hours",
+    "hoursValue": "Sun – Thu · 9 AM – 6 PM",
+    "linkedinLabel": "Follow me on LinkedIn",
+    "linkedinValue": "Weekly financial insights from my daily practice",
+    "formName": "Full name",
+    "formNamePlaceholder": "e.g. Mohammed Al-Hashemi",
+    "formPhone": "Phone number",
+    "formPhonePlaceholder": "Enter phone number",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "name@company.com",
+    "formSubject": "Subject",
+    "formSubjectPlaceholder": "e.g. monthly retainer, tax filing, feasibility study...",
+    "formMessage": "Your request details",
+    "formMessagePlaceholder": "Briefly describe your business and what you need...",
+    "formSubmit": "Send request",
+    "formPrivacy": "Your data is never shared with any third party … ever.",
+    "submittedTitle": "Got your message",
+    "submittedText": "Thanks for reaching out. I'll review your request and get back to you within 24 working hours … with a suggested time for the free session if you'd like one.",
+    "sendAnother": "Send another message"
+  },
+  "cta": {
+    "title1": "When was the last time you looked at",
+    "title2": " your numbers as an accountant?",
+    "description": "Give me half an hour, and leave with your most important financial priorities ranked … no commitment, no fees, complete confidentiality.",
+    "button": "Book your free session",
+    "responseNote": "Average response time: under 24 working hours"
+  },
+  "footer": {
+    "about": "My rule is the same with every client: honest numbers delivered on time. I've worked in accounting, zakat, tax, and advisory for over a decade, and I treat every file as if it were my own home's file.",
+    "quickLinks": "Quick links",
+    "services": "Services",
+    "contact": "Contact",
+    "phoneLabel": "Phone / WhatsApp",
+    "emailLabel": "Email",
+    "officeLabel": "Office",
+    "officeValue": "City - District",
+    "hoursLabel": "Working hours",
+    "hoursValue": "Sun – Thu · 9 AM – 6 PM",
+    "servicesLinks": [
+      "Financial & management accounting",
+      "Zakat, tax & compliance",
+      "Internal audit & review",
+      "Financial advisory & analysis",
+      "Financial planning & budgeting",
+      "Investment readiness"
+    ],
+    "socialX": "X",
+    "socialLinkedin": "LinkedIn",
+    "socialWhatsapp": "WhatsApp",
+    "socialEmail": "Email",
+    "copyright": "© 2026 Mauri Mouhassib … All rights reserved.",
+    "privacy": "Privacy policy",
+    "terms": "Terms & conditions"
+  },
+  "meta": {
+    "name": "Mauri Mouhassib",
+    "tag": "Certified Accountant & Financial Advisor",
+    "title": "Mauri Mouhassib | Certified Accountant & Financial Advisor",
+    "description": "Certified accountant and financial advisor from Riyadh since 2014. I help companies and founders organize their books, file zakat and tax on time, and make informed financial decisions.",
+    "keywords": [
+      "certified accountant",
+      "financial advisor",
+      "accounting",
+      "zakat and tax",
+      "financial audit",
+      "financial consulting",
+      "financial planning",
+      "Riyadh"
+    ],
+    "ogTitle": "Mauri Mouhassib | Certified Accountant & Financial Advisor",
+    "ogDescription": "Accounting, zakat & tax, and audit … honest numbers that give you confident decisions.",
+    "siteName": "Mauri Mouhassib",
+    "locale": "en_US",
+    "author": "Mohammed Al-Hashemi"
+  },
+  "seo": {
+    "services": {
+      "title": "Accounting, Zakat & Tax and Audit Services",
+      "description": "Financial and management accounting, zakat and tax filing, internal audit, and advisory services for companies and founders in Riyadh."
+    },
+    "about": {
+      "title": "About Mauri Mouhassib",
+      "description": "A certified accountant and financial advisor from Riyadh with 11+ years of experience helping companies organize their books and make confident financial decisions."
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "description": "What clients say about working with a certified accountant in Riyadh — honest numbers, timely zakat and tax filings, and reports they understand."
+    },
+    "pricing": {
+      "title": "Pricing & Plans",
+      "description": "Transparent accounting and consulting plans starting with a free consultation — one-off engagements, monthly management, or tailored enterprise oversight."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Answers about free sessions, zakat and tax deadlines, monthly accounting, and how financial consulting in Riyadh works."
+    },
+    "contact": {
+      "title": "Contact & Free Consultation",
+      "description": "Book a free 30-minute consultation or send a request — replies within 24 working hours."
+    }
+  },
+  "notFound": {
+    "code": "404",
+    "title": "This page took a wrong turn",
+    "text": "The page you're looking for doesn't exist or has been moved. Let me get you back to the numbers.",
+    "home": "Back to homepage",
+    "contact": "Contact me"
+  }
+}
