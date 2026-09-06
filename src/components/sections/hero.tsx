@@ -67,7 +67,7 @@ function Hero() {
         {messages.watermark}
       </span>
 
-      <div className="mx-auto flex max-w-7xl flex-col items-center px-5 pb-28 pt-36 text-center sm:px-8 sm:pt-44">
+      <div className="mx-auto flex max-w-7xl flex-col items-center px-5 pb-28 pt-16 text-center sm:px-8 sm:pt-20">
         <motion.h1
           initial={{ opacity: 0, y: reduceMotion ? 0 : 26 }}
           animate={{ opacity: 1, y: 0 }}
